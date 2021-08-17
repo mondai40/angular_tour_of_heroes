@@ -24,7 +24,7 @@ class AppComponent implements OnInit{
   Future<void> _getHeros() async {
     // _heroService.getAll()
     //   .then((heros) => this.heros = heros);
-    heros = await _heroService.getAll();
+    heros = await _heroService.getAllSlowly();
   }
 
   void onSelect(Hero hero) => selectedHero = hero;
