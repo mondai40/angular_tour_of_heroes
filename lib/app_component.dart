@@ -14,6 +14,6 @@ import 'package:angular_app/src/hero_service.dart';
   providers: [ClassProvider(HeroService)]
 )
 class AppComponent {
-  final String title = 'Tour of Magicians';
+  final String title = 'Tour of Artists';
 }
 class Animal {}
