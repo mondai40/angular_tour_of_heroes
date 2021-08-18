@@ -31,3 +31,5 @@ class HeroListComponent implements OnInit{
   @override
   void ngOnInit() => _getHeros();
 }
+
+class TestComponent {}
