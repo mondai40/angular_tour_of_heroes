@@ -16,3 +16,4 @@ import 'package:angular_app/src/hero_service.dart';
 class AppComponent {
   final String title = 'Tour of Heroes';
 }
+class Animal {}
