@@ -11,6 +11,9 @@ import 'package:angular_app/src/hero_service.dart';
     <h1>{{ title }}</h1>
     <h1>{{ title }}</h1>
     <h1>{{ title }}</h1>
+    <h1>{{ title }}</h1>
+    <h1>{{ title }}</h1>
+    <h1>{{ title }}</h1>
     <my-heros></my-heros>
     <my-heros></my-heros>
     <my-heros></my-heros>
