@@ -19,3 +19,6 @@ class AppComponent {
 class Animal {}
 
 class Robot {}
+
+class Human {}
+
