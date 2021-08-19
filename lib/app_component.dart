@@ -17,3 +17,6 @@ class AppComponent {
   final String title = 'Tour of Artists';
 }
 class Animal {}
+
+class Robot {}
+
