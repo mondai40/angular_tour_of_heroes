@@ -22,3 +22,5 @@ class HeroComponent {
     @Input()
     Hero hero;
 }
+
+// comment
