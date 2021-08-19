@@ -20,5 +20,3 @@ class Animal {}
 
 class Robot {}
 
-class Human {}
-
