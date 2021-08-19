@@ -17,3 +17,8 @@ class AppComponent {
   final String title = 'Tour of Artists';
 }
 class Animal {}
+
+class Robot {
+  final String title = "I am T3000";
+}
+
