@@ -18,5 +18,7 @@ class AppComponent {
 }
 class Animal {}
 
-class Robot {}
+class Robot {
+  final String title = "I am T3000";
+}
 
