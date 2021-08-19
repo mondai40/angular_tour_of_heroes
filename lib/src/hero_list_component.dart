@@ -33,5 +33,3 @@ class HeroListComponent implements OnInit{
 }
 
 class TestComponent {}
-
-// comment
